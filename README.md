@@ -3,16 +3,15 @@
 AirSense is a **full-stack air quality monitoring and analytics platform** designed to transform fragmented environmental data into actionable insights.  
 The system aggregates multi-source PM2.5 and PM10 data, performs comparative analytics, delivers AI-powered forecasts, and enables natural-language analytics through an LLM-based planning agent.
 
-This project was developed as a **collaborative group project at SLIIT** for the *Information Retrieval and Web Analytics (IT3041)* module.
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025015.png)
+![AirSense Landing Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
 ---
 
 ## 🚀 Key Features
 
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20030511.png)
+![AirSense Landing Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
 ### 🌐 Multi-Source Data Aggregation
 - Scrapes hourly air quality data from **Open-Meteo, OpenAQ, IQAir, and WAQI**
@@ -77,55 +76,24 @@ This architecture enables scalability, security, and clear separation of concern
 - **Privacy:** No personal location tracking; secure credential handling  
 
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025126.png)
+![AirSense Landing Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
-![AirSense Forecasting Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025447.png)
+![AirSense Forecasting Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
-![AirSense City Analysis Page 1](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025247.png)
+![AirSense City Analysis Page 1](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
-![AirSense City Analysis Page 2](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025302.png)
+![AirSense City Analysis Page 2](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
-![AirSense Forecasting Report Page 1](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025501.png)
+![AirSense Forecasting Report Page 1](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
-![AirSense Forecasting Report Page 2](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025522.png)
+![AirSense Forecasting Report Page 2](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
-![AirSense Forecasting Report Page 3](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025532.png)
-
----
-
-## 👥 Team & Leadership
-
-**Team Leader & Full-Stack Integration Architect:**  
-Hirusha D G A D (IT23183018)
-
-Key contributions include:
-- AI forecasting engine & backtesting
-- LLM agent design and orchestration
-- Authentication & tier enforcement
-- System-wide integration and documentation leadership
-
-(Full contribution breakdown available in the final report) :contentReference[oaicite:2]{index=2}.
+![AirSense Forecasting Report Page 3](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
 ---
 
-## 🎯 Academic Context
 
-- **Institution:** Sri Lanka Institute of Information Technology (SLIIT)  
-- **Module:** IT3041 – Information Retrieval and Web Analytics  
-- **Year:** 2025  
-- **Project Type:** Group Project (Industry-oriented system)
-
----
-
-## 📌 Future Enhancements
-
-- Real-time alerts for pollution thresholds
-- Additional data sources & ML models
-- Extended agent reasoning capabilities
-- Cloud deployment and CI/CD pipelines
-
----
 
 ## 📜 License
 
-This project is released for **academic and learning purposes**.
+This project is released for **Learning Purposes**.
