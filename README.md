@@ -4,14 +4,10 @@ AirSense is a **full-stack air quality monitoring and analytics platform** desig
 The system aggregates multi-source PM2.5 and PM10 data, performs comparative analytics, delivers AI-powered forecasts, and enables natural-language analytics through an LLM-based planning agent.
 
 
-![AirSense Landing Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
 ---
 
 ## 🚀 Key Features
 
-
-![AirSense Landing Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
 ### 🌐 Multi-Source Data Aggregation
 - Scrapes hourly air quality data from **Open-Meteo, OpenAQ, IQAir, and WAQI**
@@ -74,21 +70,6 @@ This architecture enables scalability, security, and clear separation of concern
 - **Explainability:** Interpretable SARIMAX models + execution traces  
 - **Transparency:** Visible data sources, KPIs, and agent steps  
 - **Privacy:** No personal location tracking; secure credential handling  
-
-
-![AirSense Landing Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
-![AirSense Forecasting Page](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
-![AirSense City Analysis Page 1](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
-![AirSense City Analysis Page 2](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
-![AirSense Forecasting Report Page 1](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
-![AirSense Forecasting Report Page 2](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
-
-![AirSense Forecasting Report Page 3](https://github.com/pratik8957/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot.png)
 
 ---
 
